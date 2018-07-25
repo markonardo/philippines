@@ -1,0 +1,114 @@
+[
+  {
+    "id": 145,
+    "name": "Banaue Rice Terraces, Ifugao",
+    "imageUrl": "http://cdn.touropia.com/gfx/d/incredible-terrace-fields/banaue_rice_terraces.jpg?v=43fa4c2dec532f85f9b8a7dee219ee77",
+    "distance": 238,
+    "lat": 16.922260, 
+    "lng": 121.052905
+  },
+  {
+    "id": 148,
+    "name": "Boracay, Boracay",
+    "imageUrl": "http://cdn.touropia.com/gfx/d/best-island-reefs-around-the-world/boracay.jpg?v=1",
+    "distance": 712,
+    "lat": 11.970537,
+    "lng": 121.945243
+  },
+  {
+    "id": 201,
+    "name": "Chocolate Hills, Bohol",
+    "imageUrl": "http://cdn.touropia.com/gfx/d/natural-rock-formations/chocolate_hills.jpg?v=1",
+    "distance": 1196,
+    "lat": 9.788094, 
+    "lng": 124.129750
+  },
+  {
+    "id": 205,
+    "name": "Puerto Princesa, Underground River",
+    "imageUrl": "http://cdn.touropia.com/gfx/d/famous-underground-caves-in-the-world/puerto_princesa_underground_river.jpg?v=b36f31732cbb057de840d71a7e0f1605",
+    "distance": 1074,
+    "lat": 10.213514, 
+    "lng": 118.918048
+  },
+  {
+    "id": 210,
+    "name": "Puerto Galera, Manila",
+    "imageUrl": "http://cdn.touropia.com/gfx/d/tourist-attractions-in-the-philippines/puerto_galera.jpg?v=b36f31732cbb057de840d71a7e0f1605",
+    "distance": 300,
+    "lat": 14.394684, 
+    "lng": 121.034912
+  },
+  {
+    "id": 211,
+    "name": "Mayon Volcano, Albay",
+    "imageUrl": "http://www.expatch.org/wp-content/uploads/2018/05/mayon-volcano.jpg",
+    "distance": 762,
+    "lat": 13.323364,
+    "lng": 123.681134
+  },
+  {
+    "id": 212,
+    "name": "My Home Address, San Fernando City La Union",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/SaFernandoCityLa_Unionjf462.JPG/1200px-SaFernandoCityLa_Unionjf462.JPG",
+    "distance": 0,
+    "lat": 16.605758,
+    "lng": 120.318865
+  },
+   {
+    "id": 213,
+    "name": "Rizal Park, Manila",
+    "imageUrl": "https://i.ytimg.com/vi/eBPIgvHtPcU/maxresdefault.jpg",
+    "distance": 270,
+    "lat": 14.583135, 
+    "lng": 120.979435
+  },
+    {
+    "id": 214,
+    "name": "Vigan City, Ilocos Sur",
+    "imageUrl": "http://vigancity.gov.ph/wp-content/uploads/2015/06/vigancityheritage.jpg",
+    "distance": 137,
+    "lat": 17.574727,
+    "lng": 120.386831
+  },
+   {
+    "id": 215,
+    "name": "El Nido, Palawan",
+    "imageUrl": "https://3.bp.blogspot.com/-K0sUdRMIKVE/WIwnfOYAaAI/AAAAAAAAFSc/wyhp0e7OwYY8nZ6mdfXc8Z2uEKSmBix8wCPcBGAYYCw/s1600/IMG_4986.jpg",
+    "distance": 887,
+    "lat": 11.376088, 
+    "lng": 119.471276
+  },
+   {
+    "id": 206,
+    "name": "Burnharm Park, Baguio City",
+    "imageUrl": "https://c1.staticflickr.com/9/8035/7929118544_3313454a5a_b.jpg",
+    "distance": 57.8,
+    "lat": 16.423391,  
+    "lng": 120.596567
+  },
+   {
+    "id": 207,
+    "name": "Fort Santiago, Intramuros Manila",
+    "imageUrl": "https://www.tripsavvy.com/thmb/q9nGmI6z4iFxmbc130qMSI21BpY=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-515030857-599ff63e03f402001100ee1d.jpg",
+    "distance": 269,
+    "lat": 14.644463,
+    "lng": 120.977781
+  },
+   {
+    "id": 208,
+    "name": "Tubbataha Reef, Puerto Princesa Palawan",
+    "imageUrl": "https://c402277.ssl.cf1.rackcdn.com/photos/4849/images/story_full_width/Tubbataha_North_Islet_by_Gregg_Yan.jpg?1376405885",
+    "distance": 1076,
+    "lat": 9.948941, 
+    "lng": 118.680975
+  },
+  {
+    "id": 209,
+    "name": "Kawan Falls, Cebu",
+    "imageUrl": "https://www.lavidaviva.com/wp-content/uploads/2017/04/IMG_3688-1.jpg",
+    "distance": 1167,
+    "lat": 10.017286,
+    "lng": 123.377752
+  }
+]
